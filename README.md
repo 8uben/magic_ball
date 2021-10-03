@@ -10,7 +10,9 @@ This  program written in **Ruby** language and show user a random answer
 
 run file *magic_ball* in terminal window:
 
-`$ ruby magic_ball.rb`
+```
+$ ruby magic_ball.rb
+```
 
 ask an question and after pair second the ball will output an answer:
 
